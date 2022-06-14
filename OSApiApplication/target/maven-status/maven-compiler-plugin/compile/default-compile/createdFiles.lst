@@ -1,0 +1,14 @@
+br\etl\kge\OSApiApplication\api\controller\OrdemServicoController.class
+br\etl\kge\OSApiApplication\OsApiApplication.class
+br\etl\kge\OSApiApplication\api\controller\ClienteController.class
+br\etl\kge\OSApiApplication\api\exceptionhandler\ProblemaException$CampoProblema.class
+br\etl\kge\OSApiApplication\domain\repository\OrdemServicoRepository.class
+br\etl\kge\OSApiApplication\domain\repository\ClienteRepository.class
+br\etl\kge\OSApiApplication\api\exceptionhandler\ProblemaException.class
+br\etl\kge\OSApiApplication\domain\model\StatusOrdemServico.class
+br\etl\kge\OSApiApplication\domain\service\ClienteService.class
+br\etl\kge\OSApiApplication\domain\model\OrdemServico.class
+br\etl\kge\OSApiApplication\api\exceptionhandler\ApiExceptionHandler.class
+br\etl\kge\OSApiApplication\domain\model\Cliente.class
+br\etl\kge\OSApiApplication\domain\exception\DomainException.class
+br\etl\kge\OSApiApplication\domain\service\OrdemServicoService.class

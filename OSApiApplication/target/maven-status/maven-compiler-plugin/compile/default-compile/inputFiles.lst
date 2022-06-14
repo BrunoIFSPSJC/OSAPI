@@ -1,0 +1,13 @@
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\domain\repository\OrdemServicoRepository.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\domain\model\Cliente.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\api\exceptionhandler\ProblemaException.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\api\controller\ClienteController.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\domain\model\OrdemServico.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\domain\service\ClienteService.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\api\controller\OrdemServicoController.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\domain\repository\ClienteRepository.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\domain\model\StatusOrdemServico.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\api\exceptionhandler\ApiExceptionHandler.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\domain\service\OrdemServicoService.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\OsApiApplication.java
+C:\Users\devsys-a\Documents\NetBeansProjects\OSApiApplication\src\main\java\br\etl\kge\OSApiApplication\domain\exception\DomainException.java
